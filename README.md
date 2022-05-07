@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Sample code from Holczer Balazs's data structure and algorithms course
+Sample code for Holczer Balazs's data structure and algorithms course problem sets
